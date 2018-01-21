@@ -1,3 +1,4 @@
+
 class Test implements Runnable
 {
 	private boolean flag;
